@@ -28,8 +28,7 @@ code defaults to 0, but I wanted it to be separate from my standing pose, so I
 defaulted to case 6, which I did not implement. My case 0 is based off this
 image of a horse walking:
 
-    https://img00.deviantart.net/141f/i2013/186d5bay_horse_walking_1_by_venomx
-baby-d6c3cly.jpg
+    https://img00.deviantart.net/141f/i2013/186d5bay_horse_walking_1_by_venomxbaby-d6c3cly.jpg
 
 I added some arm movements to make it more interesting. For case 1, I had the
 front legs be kicked up, and for case 2, hind legs kicked up.
